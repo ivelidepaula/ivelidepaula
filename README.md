@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ivelidepaula
-- 👀 I’m interested in Data Analysis, Research and Social projects.
-- 🌱 I’m currently learning Spark.
-- 💞️ I’m looking to collaborate on Data Analysis projects.
 - 📫 How to reach me:
   iveli.depaula@gmail.com
 
